@@ -1,4 +1,4 @@
-# 刷题笔记 by gustt
+# 刷题笔记 by Infinitefft
 
 欢迎访问我的刷题仓库！这里整理了我在力扣（Leetcode）、Codeforces 等平台上的一些算法趣题题解。包含Go/C++/Python(更多的为Go)三种语言的实现。
 
